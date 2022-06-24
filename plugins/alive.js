@@ -32,13 +32,13 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'Follow instagram',
+        url: 'https://www.instagram.com/herbert_suantak'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'918416093656&text=Hey+bro'
     }
 }, {
     quickReplyButton: {
@@ -78,10 +78,10 @@ if (setarr[i].use === 'utility') {
   utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
 }
 }
-  var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
+  var menu = `╭═══〘 $Herbert suantak 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
-┃❉│ Owner : ${BOT_INFO.split(";")[1]}
+┃❉│ Owner : ${Herbert Sauntak }
 ┃❉│ User : ${message.senderName}
 ┃❉│ Mode : ${MODE}
 ┃❉│ Server : ${config.HEROKU.APP_NAME}
@@ -93,7 +93,7 @@ if (setarr[i].use === 'utility') {
 ┃❉│
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃❉│   ${BOT_INFO.split(";")[0]}
+┃❉│   ${Herbert Sauntak }
 ┃❉│ 
 ┃❉╰───────────────
 ╰═════════════════⊷
