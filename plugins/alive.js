@@ -78,10 +78,10 @@ if (setarr[i].use === 'utility') {
   utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
 }
 }
-  var menu = `╭═══〘 $Herbert suantak 〙═══⊷❍
+  var menu = `╭═══〘 Herbert suantak 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
-┃❉│ Owner : ${Herbert Sauntak }
+┃❉│ Owner : Herbert Sauntak
 ┃❉│ User : ${message.senderName}
 ┃❉│ Mode : ${MODE}
 ┃❉│ Server : ${config.HEROKU.APP_NAME}
@@ -93,7 +93,7 @@ if (setarr[i].use === 'utility') {
 ┃❉│
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃❉│   ${Herbert Sauntak }
+┃❉│   Herbert Sauntak
 ┃❉│ 
 ┃❉╰───────────────
 ╰═════════════════⊷
