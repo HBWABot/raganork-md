@@ -2,9 +2,9 @@
     "STRINGS": {
         "converters": {
         "STICKER_DESC":"Creates stickers. Reply to media.",
-        "STICKER_NEED_REPLY":"Reply to a photo or a short video",
+        "STICKER_NEED_REPLY":"Thlalak emaw video tawi te reply rawh",
         "MP3_DESC":"Converts replied media to mp3 format",
-        "MP3_NEED_REPLY:":"Reply to an audio or video",
+        "MP3_NEED_REPLY:":"Video emaw audio in reply rawh",
         "BASS_DESC:":"Bass boosts audio. .bass 20",
         "BASS_NEED_REPLY:":"Reply to an audio",
         "PHOTO_DESC":"Converts non animated stickers to photo",
@@ -12,21 +12,21 @@
         },
         "external_plugin": {
             "INSTALL_DESC": "Installs external plugins.",
-            "NEED_URL": "Need a URL! Example .install https://gist.git....",
+            "NEED_URL": "URL angai! Example .install https://gist.git....",
             "INVALID_URL": "Invalid url!",
             "INVALID_PLUGIN": "Plugin has errors!*_\n",
             "INSTALLED": "Successfully installed {} ✅",
-            "PLUGIN_DESC": "Shows the plugins that you have installed.",
+            "PLUGIN_DESC": "Hei chu i install tawh",
             "INSTALLED_PLUGINS": "Installed plugins:\n",
-            "NO_PLUGIN": "No installed plugins found!",
+            "NO_PLUGIN": "Install sa a hmu lo!",
             "REMOVE_DESC": "Removes plugin.",
-            "NEED_PLUGIN": "Please give a plugin name! Example: .remove news*",
+            "NEED_PLUGIN": "Plugin hming angai! Example: .remove news*",
             "PLUGIN_NOT_FOUND": "Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.",
-            "DELETED": "✅ Plugin {} successfully deleted. Restart to make changes"
+            "DELETED": "✅ Plugin {} a delete fel ta e. Restr la a siam danglam ang "
         },
         "group": {
             "KICK_DESC": "Kicks participants from group.",
-            "NOT_ADMIN": "I'm not an admin",
+            "NOT_ADMIN": "Admin ka nilo!..",
             "ISADMIN": "Participant is an admin",
             "KICKED": "Kicked!",
             "NEED_USER": "Need a participant",
@@ -156,7 +156,7 @@
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates replied msg with Google Translate",
-            "TRANSLATE_USAGE": ".trt en ml (From English to Malayalam)",
+            "TRANSLATE_USAGE": ".trt en ml (From English to Mizo)",
             "NEED_REPLY": "Please reply to any message!",
             "TRANSLATE_ERROR": "❌ An error occured while translating!",
             "TTS_DESC": "Converts text to speech using google tts.",
@@ -198,7 +198,7 @@
         },
         "tagall": {
             "TAGALL_DESC": "Mentions everyone in the group.",
-            "ADMIN": "I'm not an admin"
+            "ADMIN": "Admin ka nilo"
         },
         "updater": {
             "UPDATER_DESC": "Checks for bot updates.",
@@ -219,7 +219,7 @@
             "DESC": "Fetches user informations from instagram",
             "LOADING": "Fetching user data.. please wait.",
             "USERNAME": "Username",
-            "NAME": "Name",
+            "NAME": "Hming",
             "BIO": "Biography",
             "FOLLOWERS": "Followers",
             "FOLLOWS": "Follows",
